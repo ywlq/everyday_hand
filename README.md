@@ -29,9 +29,9 @@
   📅 完成时间：2025年1月15日   
   ⏳ 任务描述：公式推导rope(只看懂了一部分，整体太难了TAT),以Llama-2-7b-hf为例解释rope的实现流程
 
-- [ ] **neftune**    
-  📅 完成时间：   
-  ⏳ 任务描述：
+- [x] **neftune**    
+  📅 完成时间：2025年1月16日
+  ⏳ 任务描述： neftune代码实现,分析transformer关于neftune的代码实现
 
 - [ ] **liger-core**  
   📅 完成时间：   
