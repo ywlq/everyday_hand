@@ -1,5 +1,4 @@
 # everyday_hand
-每天一份理解代码
 
 ## To-Do List
 
